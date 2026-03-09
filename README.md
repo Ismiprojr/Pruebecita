@@ -9,11 +9,11 @@ Página web para una carrera popular creada con Bootstrap 5. Tiene información 
 |---------|----------|-------------|
 | Navbar | 12 | Menú superior con enlaces |
 | Hero | 12 | Título, fecha y botón de inscripción |
-| ¿Qué es? | 3 columnas | Tarjetas explicativas del evento |
-| Cuándo y dónde | 2 columnas | Fecha, hora y lugar + botón |
-| Recorrido | 2 columnas | Info de las distancias 10km y 5km |
-| FAQ | 1 columna | Preguntas frecuentes con acordeón |
-| Footer | 4 columnas | Enlaces, contacto y redes sociales |
+| ¿Qué es? | 3 | Tarjetas explicativas del evento |
+| Cuándo y dónde | 2  | Fecha, hora y lugar + botón |
+| Recorrido | 2  | Info de las distancias 10km y 5km |
+| FAQ | 1  | Preguntas frecuentes con acordeón |
+| Footer | 4  | Enlaces, contacto y redes sociales |
 
 ## 🧩 Componentes Bootstrap usados
 - Navbar
